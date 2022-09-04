@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARREYS", "ARREYS\ARREYS.csproj", "{96BD0965-FF85-4706-A232-8514BC33B212}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfWeek", "dayOfWeek\DayOfWeek.csproj", "{C06AB4FC-29B9-4FCC-8788-BDCF07EA453E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintNumbersInReverseOrder", "PrintNumbersinReverseOrder\PrintNumbersInReverseOrder.csproj", "{16B0901B-3A2B-4B14-99EA-E476DA1C718C}"
@@ -27,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96BD0965-FF85-4706-A232-8514BC33B212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96BD0965-FF85-4706-A232-8514BC33B212}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96BD0965-FF85-4706-A232-8514BC33B212}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96BD0965-FF85-4706-A232-8514BC33B212}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C06AB4FC-29B9-4FCC-8788-BDCF07EA453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C06AB4FC-29B9-4FCC-8788-BDCF07EA453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06AB4FC-29B9-4FCC-8788-BDCF07EA453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
